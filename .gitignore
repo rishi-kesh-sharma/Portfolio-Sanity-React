@@ -4,4 +4,4 @@ backend_sanity_portfolio/.env
 backend_sanity_portfolio/node_modules
 backend_sanity_portfolio/data.ndjson
 backend_sanity_portfolio/meta.js
-/backend_sanity_portfolio/images
+backend_sanity_portfolio/images
